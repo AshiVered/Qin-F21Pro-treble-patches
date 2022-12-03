@@ -1,4 +1,4 @@
-# patch Bluetooth and Headphones
+# Patch Bluetooth and Headphones
 Create a folder called bluetooth in vendor / overlay and grant permissions 755
 2. Put bluetooth.apk in the folder and give it 644 permissions
 Create a folder named devinputjack in vendor / overlay and grant permissions 755
